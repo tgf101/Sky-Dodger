@@ -34,7 +34,18 @@ Move Left: Left Arrow Key / A
 Move Right: Right Arrow Key / D
 
 Jump: Spacebar
+
 # Platform 
 I used Godot to create my game 
 
 # language 
+I used Gdscript for the creation of the game
+
+# How to Run the Game
+
+Clone the repository from GitHub.
+
+Open the project in the Godot Engine.
+
+Run the main scene to start the game.
+
