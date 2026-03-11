@@ -1,6 +1,6 @@
-# Sky-Dodger
+# Sk -Dodger
 
- Sky Dodger is a 2D platformer game developed using the Godot game engine.
+Sky Dodger is a 2D platformer game developed using the Godot game engine.
 In this game, the player controls a character that moves through the sky while collecting items and avoiding dangerous obstacles. The objective is to survive as long as possible while increasing the score.
 
 # Gameplay
@@ -14,6 +14,9 @@ Avoid obstacles that can end the game
 Stay alive for as long as possible
 
 The difficulty increases as the game progresses, making it more challenging for the player to dodge obstacles and collect rewards.
+
+
+<img width="603" height="292" alt="scrum template" src="https://github.com/user-attachments/assets/a2ce1bd6-f7b9-486b-bbe2-f74c12a419dd" />
 
 # Features
 
@@ -29,7 +32,7 @@ Built using the Godot game engine
 
 # Controls
 
-Move Left: Left Arrow Key / A
+Move Left: Left Arrow Key 
 
 Move Right: Right Arrow Key / D
 
@@ -40,6 +43,10 @@ I used Godot to create my game
 
 # language 
 I used Gdscript for the creation of the game
+
+# user persona 
+
+
 
 # Software Requirements
 
@@ -53,7 +60,7 @@ A computer capable of running Godot
 
 # Hardware Requirements
 
-operating system 
+Operating system 
 
 Windows 11 
 MacOS
