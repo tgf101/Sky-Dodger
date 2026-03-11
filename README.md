@@ -13,10 +13,15 @@ Avoid obstacles that can end the game
 
 Stay alive for as long as possible
 
-The difficulty increases as the game progresses, making it more challenging for the player to dodge obstacles and collect rewards.
-
-
 <img width="603" height="292" alt="scrum template" src="https://github.com/user-attachments/assets/a2ce1bd6-f7b9-486b-bbe2-f74c12a419dd" />
+# Story 1
+As a player, I want to be able to move my character left and right so that i can avoid obstacles
+
+# Story 2
+As a player, I want to be able to jump so that i can collect items and avoid hazards
+
+# Story 2
+As a player, I want to be able to collect items to increase my score
 
 # Features
 
