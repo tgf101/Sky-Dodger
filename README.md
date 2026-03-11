@@ -13,7 +13,8 @@ Avoid obstacles that can end the game
 
 Stay alive for as long as possible
 
-<img width="603" height="292" alt="scrum template" src="https://github.com/user-attachments/assets/a2ce1bd6-f7b9-486b-bbe2-f74c12a419dd" />
+<img width="604" height="294" alt="scrum template" src="https://github.com/user-attachments/assets/f9e9595a-b645-478b-816b-4ca988635ffe" />
+
 # Story 1
 As a player, I want to be able to move my character left and right so that i can avoid obstacles
 
