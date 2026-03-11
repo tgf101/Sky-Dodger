@@ -41,6 +41,24 @@ I used Godot to create my game
 # language 
 I used Gdscript for the creation of the game
 
+# Software Requirements
+
+To run or edit this project, the following software is required:
+
+Godot Engine (version 4.x recommended)
+
+Git (optional for cloning the repository)
+
+A computer capable of running Godot
+
+# Hardware Requirements
+
+operating system 
+
+Windows 11 
+MacOS
+Linux
+
 # How to Run the Game
 
 Clone the repository from GitHub.
@@ -48,4 +66,32 @@ Clone the repository from GitHub.
 Open the project in the Godot Engine.
 
 Run the main scene to start the game.
+
+# Project Structure
+
+The project contains several important components:
+
+Scenes – Used for the player, obstacles, and game environment
+
+Scripts – Written in GDScript to control gameplay logic
+
+Assets – Images, sprites, and game objects
+
+Main Scene – The entry point of the game
+
+# Future Improvements
+
+Possible future updates to improve the game include:
+
+Additional levels
+
+More types of obstacles
+
+Power-ups and special abilities
+
+Improved animations and graphics
+
+Background music and sound effects
+
+High score leaderboard
 
