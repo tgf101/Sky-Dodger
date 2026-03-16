@@ -40,7 +40,7 @@ Built using the Godot game engine
 
 Move Left: Left Arrow Key 
 
-Move Right: Right Arrow Key / D
+Move Right: Right Arrow Key 
 
 Jump: Spacebar
 
@@ -58,7 +58,7 @@ I used Gdscript for the creation of the game
 
 To run or edit this project, the following software is required:
 
-Godot Engine (version 4.x recommended)
+Godot Engine (version 4.6 recommended)
 
 Git (optional for cloning the repository)
 
@@ -98,13 +98,12 @@ Possible future updates to improve the game include:
 
 Additional levels
 
-More types of obstacles
-
 Power-ups and special abilities
+
+Bomb spawning (hazard)
 
 Improved animations and graphics
 
 Background music and sound effects
 
-High score leaderboard
 
