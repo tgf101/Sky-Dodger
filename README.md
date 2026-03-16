@@ -7,7 +7,7 @@ In this game, the player controls a character that moves through the sky while c
 
 The main goal of the game is to:
 
-Collect items to increase your score
+Collect coins to increase your score
 
 Avoid obstacles that can end the game
 
