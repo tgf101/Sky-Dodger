@@ -81,7 +81,54 @@ Jump: Spacebar
 
 I had some issues with the bomb spawn system and collision detection with the hazards.
 
+# Developmengt review meetings 
 
+Meeting 1:
+
+# Completed 
+Game idea
+Environment design 
+
+# Next tasks
+Add hazards
+User-interface system 
+
+# Challenges 
+Learning GDScript
+
+Meeting 2:
+
+# Completed 
+Hazards implemented 
+Collision detection 
+Score system
+Coin counter system
+
+# Next tasks
+Add lives system
+Game over system
+rety system 
+Start screen system 
+
+# Challenges 
+Signal connection 
+
+Meeting 3: 
+
+# Completed 
+Add lives system
+Game over system
+rety system 
+Start screen system 
+
+# Next tasks
+Jumppad system
+
+
+# Challenges 
+Signal connection  
+
+# Burndown chart 
 
 # Story 1
 As a player, I want to be able to move my character left and right so that i can avoid obstacles
