@@ -195,19 +195,19 @@ Run the main scene to start the game.
 
 # Project Structure
 
-The project contains several important components:
+The project contains a few important components:
 
 Scenes – Used for the player, obstacles, and game environment
 
 Scripts – Written in GDScript to control gameplay logic
 
-Assets – Images, sprites, and game objects
+Assets – Itch.io, Kenney.nl assets for images, sprites, and game objects
 
-Main Scene – The entry point of the game
+Main Scene – The entry point of the game to start the game
 
 # Future Improvements
 
-Possible future updates to improve the game include:
+Possible future developments to improve the game include:
 
 Additional levels
 
