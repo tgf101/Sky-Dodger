@@ -13,6 +13,15 @@ Avoid obstacles that can end the game
 
 Stay alive for as long as possible
 
+# Story 1
+As a player, I want to be able to move my character left and right so that i can avoid obstacles
+
+# Story 2
+As a player, I want to be able to jump so that i can collect items and avoid hazards
+
+# Story 2
+As a player, I want to be able to collect items to increase my score
+
 <img width="604" height="294" alt="scrum template" src="https://github.com/user-attachments/assets/f9e9595a-b645-478b-816b-4ca988635ffe" />
 
 <img width="484" height="442" alt="Screenshot 2026-03-17 at 09 59 53" src="https://github.com/user-attachments/assets/20c63e91-4ac5-48ef-bcec-2976570a7f54" />
@@ -137,18 +146,6 @@ Signal connection
 
 <img width="456" height="180" alt="Screenshot 2026-03-17 at 17 17 43" src="https://github.com/user-attachments/assets/7a8bfd25-8edc-4796-a574-7090178225d3" />
 
-
-
-
-
-# Story 1
-As a player, I want to be able to move my character left and right so that i can avoid obstacles
-
-# Story 2
-As a player, I want to be able to jump so that i can collect items and avoid hazards
-
-# Story 2
-As a player, I want to be able to collect items to increase my score
 
 # Features
 
