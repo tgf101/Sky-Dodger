@@ -53,6 +53,15 @@ Motivation loop:
 
 Challenge, avoid bomb and hazards, collect rewards (coins), continue playing the game
 
+# Game rules
+
+Player starts off with 3 lives, bomb or hazard collisions remove 1 life, con collection inreases score, game ends at 0 lives, retry button starts the game again. 
+
+# State diagram
+
+<img width="142" height="437" alt="Screenshot 2026-03-17 at 10 59 01" src="https://github.com/user-attachments/assets/6ebce9d7-7794-492d-b4a5-ca6a286758bd" />
+
+
 # Story 1
 As a player, I want to be able to move my character left and right so that i can avoid obstacles
 
