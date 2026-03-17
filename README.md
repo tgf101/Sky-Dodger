@@ -219,8 +219,6 @@ Additional levels
 
 Power-ups and special abilities
 
-Bomb spawning (hazard)
-
 Improved animations and graphics
 
 Background music and sound effects
