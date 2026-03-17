@@ -85,11 +85,11 @@ I had some issues with the bomb spawn system and collision detection with the ha
 
 Meeting 1:
 
-# Completed 
+Completed: 
 Game idea
 Environment design 
 
-# Next tasks
+Next tasks:
 Add hazards
 User-interface system 
 
