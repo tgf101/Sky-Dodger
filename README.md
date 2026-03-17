@@ -90,7 +90,7 @@ Jump: Spacebar
 
 I had some issues with the bomb spawn system and collision detection with the hazards.
 
-# Developmengt review meetings 
+# Development review meetings 
 
 Meeting 1:
 
