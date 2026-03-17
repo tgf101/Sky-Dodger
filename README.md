@@ -169,9 +169,6 @@ I used Godot to create my game
 # language 
 I used Gdscript for the creation of the game
 
-# user persona 
-
-
 
 # Software Requirements
 
