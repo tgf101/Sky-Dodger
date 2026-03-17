@@ -64,7 +64,7 @@ Challenge, avoid bomb and hazards, collect rewards (coins), continue playing the
 
 # Game rules
 
-Player starts off with 3 lives, bomb or hazard collisions remove 1 life, con collection inreases score, game ends at 0 lives, retry button starts the game again. 
+Player starts off with 3 lives, bomb or hazard collisions removes 1 life, coin collection inreases score, game ends at 0 lives, retry button starts the game again. 
 
 # State diagram
 
@@ -116,7 +116,7 @@ Coin counter system
 # Next tasks
 Add lives system 
 Game over system
-retry system
+Retry system
 Start screen system 
 
 # Challenges 
@@ -127,7 +127,7 @@ Meeting 3:
 # Completed 
 Add lives system 
 Game over system 
-rety system
+Retry system
 Start screen system 
 
 # Next tasks
