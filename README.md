@@ -29,7 +29,29 @@ The player tries to stay  alive for as long as possible whilst trying to avoid o
 
 # Environment 
 
-The game is in a 2d platform environment 
+The game is in a 2d platform environment with a floating terrain block platform with a castle background
+
+# Levels 
+
+Levels will be implemented in future development 
+
+# Gameplay 
+
+The gameplay mechanics include player movement, avoiding hazards, coin collection, lives system and increasing difficulty
+
+# Sound 
+
+There will be sound implemented in future development
+
+# Game loop 
+
+Player state loop:
+
+The player moves on the platform, avoid bombs and hazards, collects coins, gain higher scores, lose lives, and they retry the game. 
+
+Motivation loop:
+
+Challenge, avoid bomb and hazards, collect rewards (coins), continue playing the game
 
 # Story 1
 As a player, I want to be able to move my character left and right so that i can avoid obstacles
