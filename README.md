@@ -130,12 +130,8 @@ Signal connection
 
 # Burndown chart 
 
-| Week   | Tasks Remaining |
-| ------ | --------------- |
-| Week 1 | 10              |
-| Week 2 | 7               |
-| Week 3 | 4               |
-| Week 4 | 0               |
+
+<img width="900" height="596" alt="Screenshot 2026-03-17 at 13 23 24" src="https://github.com/user-attachments/assets/f4c76659-b505-4951-aeed-594099df7b25" />
 
 
 # Story 1
