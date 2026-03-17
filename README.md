@@ -107,7 +107,7 @@ Coin counter system
 # Next tasks
 Add lives system 
 Game over system
-rety system
+retry system
 Start screen system 
 
 # Challenges 
@@ -129,6 +129,14 @@ Jumppad system
 Signal connection  
 
 # Burndown chart 
+
+| Week   | Tasks Remaining |
+| ------ | --------------- |
+| Week 1 | 10              |
+| Week 2 | 7               |
+| Week 3 | 4               |
+| Week 4 | 0               |
+
 
 # Story 1
 As a player, I want to be able to move my character left and right so that i can avoid obstacles
