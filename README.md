@@ -61,6 +61,27 @@ Player starts off with 3 lives, bomb or hazard collisions remove 1 life, con col
 
 <img width="142" height="437" alt="Screenshot 2026-03-17 at 10 59 01" src="https://github.com/user-attachments/assets/6ebce9d7-7794-492d-b4a5-ca6a286758bd" />
 
+# Programming language and platform
+
+<img width="454" height="80" alt="Screenshot 2026-03-17 at 11 12 52" src="https://github.com/user-attachments/assets/2d51a285-d06d-442d-aeaa-b4c4dd7c6b44" />
+
+# User-interface 
+
+The user interface displays the score, coin count, lives, game over screen, retry button, and start game screen. 
+
+# Controls
+
+Move Left: Left Arrow Key 
+
+Move Right: Right Arrow Key 
+
+Jump: Spacebar
+
+# Technical challenges
+
+I had some issues with the bomb spawn system and collision detection with the hazards.
+
+
 
 # Story 1
 As a player, I want to be able to move my character left and right so that i can avoid obstacles
@@ -83,13 +104,6 @@ Simple and responsive player controls
 
 Built using the Godot game engine
 
-# Controls
-
-Move Left: Left Arrow Key 
-
-Move Right: Right Arrow Key 
-
-Jump: Spacebar
 
 # Platform 
 I used Godot to create my game 
