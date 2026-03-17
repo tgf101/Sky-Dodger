@@ -133,6 +133,13 @@ Signal connection
 
 <img width="900" height="596" alt="Screenshot 2026-03-17 at 13 23 24" src="https://github.com/user-attachments/assets/f4c76659-b505-4951-aeed-594099df7b25" />
 
+# Test plan 
+
+<img width="456" height="180" alt="Screenshot 2026-03-17 at 17 17 43" src="https://github.com/user-attachments/assets/7a8bfd25-8edc-4796-a574-7090178225d3" />
+
+
+
+
 
 # Story 1
 As a player, I want to be able to move my character left and right so that i can avoid obstacles
