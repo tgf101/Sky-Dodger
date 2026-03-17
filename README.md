@@ -27,6 +27,9 @@ The player tries to stay  alive for as long as possible whilst trying to avoid o
 
 <img width="568" height="134" alt="Screenshot 2026-03-17 at 10 16 25" src="https://github.com/user-attachments/assets/19309b04-c4a3-47ef-8559-a95d4de18dce" />
 
+# Environment 
+
+The game is in a 2d platform environment 
 
 # Story 1
 As a player, I want to be able to move my character left and right so that i can avoid obstacles
