@@ -17,6 +17,17 @@ Stay alive for as long as possible
 
 <img width="484" height="442" alt="Screenshot 2026-03-17 at 09 59 53" src="https://github.com/user-attachments/assets/20c63e91-4ac5-48ef-bcec-2976570a7f54" />
 
+# Game design documentation
+
+# Game Story
+
+The player tries to stay  alive for as long as possible whilst trying to avoid obstacles and get the highest score by collecting coins.
+
+# Characters 
+
+<img width="568" height="134" alt="Screenshot 2026-03-17 at 10 16 25" src="https://github.com/user-attachments/assets/19309b04-c4a3-47ef-8559-a95d4de18dce" />
+
+
 # Story 1
 As a player, I want to be able to move my character left and right so that i can avoid obstacles
 
