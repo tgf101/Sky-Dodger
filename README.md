@@ -86,11 +86,11 @@ I had some issues with the bomb spawn system and collision detection with the ha
 Meeting 1:
 
 # Completed: 
-Game idea, 
+Game idea 
 Environment design 
 
 # Next tasks:
-Add hazards, 
+Add hazards 
 User-interface system 
 
 # Challenges 
@@ -99,15 +99,15 @@ Learning GDScript
 Meeting 2:
 
 # Completed 
-Hazards implemented,  
-Collision detection,  
-Score system, 
+Hazards implemented 
+Collision detection 
+Score system
 Coin counter system
 
 # Next tasks
-Add lives system, 
-Game over system, 
-rety system,  
+Add lives system 
+Game over system
+rety system
 Start screen system 
 
 # Challenges 
@@ -116,9 +116,9 @@ Signal connection
 Meeting 3: 
 
 # Completed 
-Add lives system, 
-Game over system, 
-rety system,  
+Add lives system 
+Game over system 
+rety system
 Start screen system 
 
 # Next tasks
